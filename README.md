@@ -1,9 +1,9 @@
-<h1 align="center">Oláa! 👋, Me chamo Luiz Vinícius</h1>
+<h1 align="center">Oláa! 👋, me chamo Luiz Vinícius</h1>
 <h3 align="center">Um carioca apaixonado por aprendizado</h3>
 
-- 🔭Atualmente estou trabalhando no **Labecommerce**
+- 🔭Atualmente estou em projetos da **Labenu**
 
-- 🌱 Estou aprendendo sobre **Serviços no BeckEnd**
+- 🌱 Estou aprendendo sobre **BeckEnd**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/future4code/silveira-Luiz-Azevedo](https://github.com/future4code/silveira-Luiz-Azevedo)
 
