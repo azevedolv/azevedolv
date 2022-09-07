@@ -3,7 +3,7 @@
 
 - 🔭 Desenvolvedor Full-stack pela **Labenu**
 
-- 🌱 Estou aprendendo sobre **BeckEnd**
+- 🌱 Estou aprendendo sobre **SOLID**
 
 - 👨‍💻 Todos os meus projetos realizados no curso estão disponíveis em: [https://github.com/future4code/silveira-Luiz-Azevedo](https://github.com/future4code/silveira-Luiz-Azevedo)
 
