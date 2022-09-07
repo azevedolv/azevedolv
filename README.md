@@ -1,11 +1,11 @@
 <h1 align="center">Olá! 👋, me chamo Luiz Vinícius</h1>
 <h3 align="center">Um carioca apaixonado por aprendizado</h3>
 
-- 🔭Atualmente estou em projetos da **Labenu**
+- 🔭 Desenvolvedor Full-stack pela **Labenu**
 
 - 🌱 Estou aprendendo sobre **BeckEnd**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/future4code/silveira-Luiz-Azevedo](https://github.com/future4code/silveira-Luiz-Azevedo)
+- 👨‍💻 Todos os meus projetos realizados no curso estão disponíveis em: [https://github.com/future4code/silveira-Luiz-Azevedo](https://github.com/future4code/silveira-Luiz-Azevedo)
 
 - 📫 Como entrar em contato: **azevedolvinicius@hotmail.com**
 
