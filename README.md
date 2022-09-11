@@ -5,7 +5,7 @@
 
 - 🌱 Estou aprendendo sobre **SOLID**
 
-- 👨‍💻 Todos os meus projetos realizados no curso da Labenu estão disponíveis em: [https://github.com/azevedolv/Labenu]
+- 👨‍💻 Todos os meus projetos realizados no curso da Labenu estão disponíveis em: [https://github.com/azevedolv/Labenu](https://github.com/azevedolv/Labenu)
 
 - 📫 Como entrar em contato: **azevedolvinicius@hotmail.com**
 
